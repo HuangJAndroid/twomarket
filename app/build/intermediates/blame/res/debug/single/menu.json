@@ -1,10 +1,10 @@
 [
     {
-        "merged": "G:\\AndroidStudioProjects\\twomarket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_list_view_item.xml",
-        "source": "G:\\AndroidStudioProjects\\twomarket\\app\\src\\main\\res\\menu\\menu_list_view_item.xml"
+        "merged": "G:\\fangbei\\twomarket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "G:\\fangbei\\twomarket\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
-        "merged": "G:\\AndroidStudioProjects\\twomarket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "G:\\AndroidStudioProjects\\twomarket\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "G:\\fangbei\\twomarket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_list_view_item.xml",
+        "source": "G:\\fangbei\\twomarket\\app\\src\\main\\res\\menu\\menu_list_view_item.xml"
     }
 ]

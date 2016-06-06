@@ -209,7 +209,7 @@ public class DownloadList extends AppCompatActivity {
         private void setHolderData(final Hodler3 holder, final DownloadInfo downloadInfo, final DownloadManager downloadManager) {
             if (downloadInfo != null) {
                 holder.download_label.setText(downloadInfo.getFileName());
-                holder.download_state.setText(downloadInfo.getState() + "");
+//                holder.download_state.setText(downloadInfo.getState() + "");
                 //暂停、继续、重试按钮点击事件
                 holder.download_stop_btn.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -302,7 +302,7 @@ public class DownloadList extends AppCompatActivity {
                         myAdapter.notifyDataSetChanged();
                     }else{
                         download_pb.setProgress(prosress);
-                        download_state.setText(downloadInfo.getState()+"");
+//                        download_state.setText(downloadInfo.getState()+"");
                     }
                 } else {
                     //APP大小为0时（一般不会遇到除非数据出错）
